@@ -1,0 +1,6 @@
+BẤM VÀO ĐƯỜNG LINK DƯỚI ĐÂY ĐỂ VÀO TRÌNH DUYỆT CHẠY MÔ PHỎNG
+https://via-sim.makerviet.org/
+Bấm vào phần "Design" để thiết kế map (bản đồ) và đặt biển báo giao thông mô phỏng
+Bấm vào phần "Start" để bắt đầu chạy mô phỏng 
+Trong code thì bấm vào phần terminal của drive2 sau đó gõ đoạn code "python drive2.py" 
+LƯU Ý: Mô phỏng hoạt động dựa trên WebSockets và yêu cầu kết nối WiFi ổn định và mạnh để đảm bảo chạy mô phỏng xe tự hành hoàn chỉnh
